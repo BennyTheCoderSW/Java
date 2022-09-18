@@ -1,0 +1,19 @@
+package Week2;
+
+public class DebugTwo3
+// Demonstrates remainder and output
+{
+   public static void main(String args[])
+   {
+	 
+      int a = 99, b = 8, result;
+      long c = 77777777;
+      result = a % b;
+      System.out.println("Divide " + a + " by " + b);
+      System.out.println("remainder is " + a / b );
+      System.out.println("c is a very large number: ");
+      System.out.println(c);
+      System.out.println("The Result is: ");
+      System.out.println(result);
+    }
+}
