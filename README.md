@@ -6,4 +6,4 @@ This repository is to highlight coding techniques and codes that I have written 
 
 Feel free to comment on mistakes made, or improvements that could be done to make the code easier to manage. 
 
-If you make a suggestion, or change, please update me via email "vansiclenbenny@gmail.com"
+If you make a suggestion, or change, please update me via email "BennyTheCoderSW@gmail.com"
