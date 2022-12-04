@@ -1,6 +1,6 @@
 # Java
 
-Codes from Java Programming 1 class in college
+Codes from Java Programming 1 & 2 class in college
 
 This repository is to highlight coding techniques and codes that I have written in Java Programming.
 
